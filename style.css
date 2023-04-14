@@ -24,7 +24,6 @@ form {
     background: none;
     border: none; 
     outline: none;
-    padding: 15px;
     font-size: 1.8rem;
     color: #FFFFFF;
     transition: all 0.3s ease;
@@ -43,7 +42,6 @@ i {
     background: none;
     border: none; 
     outline: none;
-    padding: 10px 15px;
     min-width: 50%;
     font-size: 1.4rem;
     color: #FFFFFF;
@@ -58,7 +56,6 @@ i {
 #filter {
     width: 50%;
     background: none;
-    padding: 10px;
     display: flex;
     transition: all 0.3s ease;
     
@@ -74,24 +71,19 @@ i {
   
 .filter:hover {
     transition: all 0.3s ease;
-    padding: 10px;
     font-size: x-large ;
     text-decoration: none;
   }
 
 #list {
     width: 80%;
-    margin: auto;
     list-style: none;
   }
   
   .todo {
     width: 80%;
-    margin: 20px auto;
     background-color: #282828;
-    border-radius: 10px;
     min-height: 3rem;
-    padding: 10px;
     display: flex;
     color: #FFFFFF;
     transition: all 0.3s ease;
@@ -101,7 +93,6 @@ i {
 
   .todo span{
     text-align: left;
-    padding-left: 20px;
     width: 100%;
   }
   
@@ -111,7 +102,6 @@ i {
 
   .check, .trash {
     cursor: pointer;
-    padding: 5px;
     background: none;
     border: none;
     outline: none;

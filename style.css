@@ -10,14 +10,11 @@ body {
 
 #title {
     color: #FFFFFF;
-
-    padding: 10px;
     font-weight: 900;
 }
 
 
 form {
-    padding: 20px;
     width: 90%;
     text-align: center;
 }
